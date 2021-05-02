@@ -1,0 +1,85 @@
+2021-05-01 20:29:33,524 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Logging crawl output to /Users/bot/test_ai/apps/8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1/builds/7b802321-75bf-4bfe-8464-13cd344a222c/logs/test_run-20210502032933.log
+2021-05-01 20:29:33,524 INFO     test_ai_mod.carbon_tasks.regress_app_task -- regressing app: 8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1, build: 7b802321-75bf-4bfe-8464-13cd344a222c
+2021-05-01 20:29:33,960 INFO     test_ai_mod.carbon_tasks.regress_app_task -- max_steps: 10
+2021-05-01 20:29:33,960 INFO     test_ai_mod.carbon_tasks.regress_app_task -- rand_seed: 1619907447
+2021-05-01 20:29:33,960 INFO     test_ai_mod.carbon_tasks.regress_app_task -- test_wildcard: *
+2021-05-01 20:29:33,960 INFO     test_ai_mod.carbon_tasks.regress_app_task -- package: com.equinox.android
+2021-05-01 20:29:33,960 INFO     test_ai_mod.carbon_tasks.regress_app_task -- eyes_api_key: None
+2021-05-01 20:29:33,961 INFO     test_ai_mod.carbon_tasks.regress_app_task -- no_reinstall: False
+2021-05-01 20:29:33,961 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1, BUILD_ID: 7b802321-75bf-4bfe-8464-13cd344a222c
+2021-05-01 20:29:33,964 INFO     test_ai_mod.carbon_test_case.test_filtering -- Found test: 01 Explore "For You"
+2021-05-01 20:29:33,964 INFO     test_ai_mod.carbon_test_case.carbon_tests -- Found matching test: 01 Explore "For You"
+2021-05-01 20:29:33,967 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1, BUILD_ID: 7b802321-75bf-4bfe-8464-13cd344a222c
+2021-05-01 20:29:33,969 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Remote host address: http://localhost:8080
+2021-05-01 20:29:34,165 INFO     test_ai_mod.carbon_tasks.regress_app_task -- running regress for test case: 01 Explore "For You"
+2021-05-01 20:29:34,165 INFO     test_ai_mod.carbon_tasks.regress_app_task -- steps required for test: 11
+2021-05-01 20:29:34,166 INFO     test_ai_mod.carbon_test_case.carbon_tests -- using hard cap of: 11 steps
+2021-05-01 20:29:34,166 INFO     test_ai_mod.carbon_tasks.regress_app_task -- effective_max_steps: 11
+2021-05-01 20:29:34,166 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-01 20:29:34,166 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-01 20:29:34,166 INFO     test_ai_mod.carbon_explore.explore -- *                                                *
+2021-05-01 20:29:34,167 INFO     test_ai_mod.carbon_explore.explore -- *                   BRAIN                    *
+2021-05-01 20:29:34,167 INFO     test_ai_mod.carbon_explore.explore -- *                                                *
+2021-05-01 20:29:34,167 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-01 20:29:34,167 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-01 20:29:34,168 INFO     test_ai_mod.carbon_initialization.initialization -- Random seed: 1619907447
+2021-05-01 20:29:34,170 INFO     test_ai_mod.carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-05-01 20:29:34,170 INFO     test_ai_mod.carbon_initialization.initialization --                   PACKAGE: com.equinox.android
+2021-05-01 20:29:34,171 INFO     test_ai_mod.carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-05-01 20:29:34,171 INFO     test_ai_mod.carbon_initialization.initialization -- platform: ANDROID
+2021-05-01 20:29:34,171 INFO     test_ai_mod.carbon_initialization.initialization -- using crawl_directory: /Users/bot/test_ai/apps/8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1/builds/7b802321-75bf-4bfe-8464-13cd344a222c/test_runs/20210501202933
+2021-05-01 20:29:34,171 INFO     test_ai_mod.carbon_botio.bot_io -- retrieving bot IO for app: 8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1
+2021-05-01 20:29:34,171 INFO     test_ai_mod.carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021-05-01 20:29:34,171 INFO     test_ai_mod.carbon_botio.bot_io -- botio_filepath: /Users/bot/test_ai/apps/8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1/lkg/botio.json
+2021-05-01 20:29:34,171 INFO     test_ai_mod.carbon_botio.bot_io -- use_snapshot: False
+2021-05-01 20:29:34,172 INFO     test_ai_mod.carbon_botio.bot_io -- no botIO found for app: 8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1
+2021-05-01 20:29:34,173 INFO     test_ai_mod.carbon_utils.carbon_data -- loading models from LKG dir
+2021-05-01 20:29:34,173 INFO     test_ai_mod.carbon_utils.carbon_data -- loading models from LKG dir
+2021-05-01 20:29:34,174 INFO     test_ai_mod.carbon_utils.simulator_tools -- preparing clean iteration state...
+2021-05-01 20:29:45,051 INFO     test_ai_mod.carbon_automation.driver -- Screen density: 1.0
+2021-05-01 20:29:45,052 INFO     test_ai_mod.carbon_utils.simulator_tools -- Attempting uninstall on app: com.equinox.android
+2021-05-01 20:29:45,960 INFO     test_ai_mod.carbon_utils.simulator_tools -- Installing app: http://localhost:5000/api/v2/apps/8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1/builds/7b802321-75bf-4bfe-8464-13cd344a222c/download?ext=.apk
+2021-05-01 20:30:39,030 INFO     test_ai_mod.carbon_utils.retry -- Try 0 failed: Error executing command, status code 400: Command "adb install -r /var/folders/8q/smz0w4_17pgdr93jq60158dr0000gn/T/app-2049934731931385112.apk" exited with code 255 and output: Performing Push Install
+adb: error: failed to get feature set: no devices/emulators found
+2021-05-01 20:31:33,900 INFO     test_ai_mod.carbon_utils.retry -- Try 1 failed: Error executing command, status code 400: Command "adb install -r /var/folders/8q/smz0w4_17pgdr93jq60158dr0000gn/T/app-639452317859962833.apk" exited with code 255 and output: Performing Push Install
+adb: error: failed to get feature set: no devices/emulators found
+2021-05-01 20:31:51,945 INFO     root -- Stopping v2 test run.
+2021-05-01 20:32:11,458 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1, BUILD_ID: 7b802321-75bf-4bfe-8464-13cd344a222c
+2021-05-01 20:32:11,615 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1, BUILD_ID: 7b802321-75bf-4bfe-8464-13cd344a222c
+2021-05-01 20:32:12,471 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1, BUILD_ID: 7b802321-75bf-4bfe-8464-13cd344a222c
+2021-05-01 20:32:12,505 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1, BUILD_ID: 7b802321-75bf-4bfe-8464-13cd344a222c
+2021-05-01 20:32:12,506 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1, BUILD_ID: 7b802321-75bf-4bfe-8464-13cd344a222c
+2021-05-01 20:32:30,457 INFO     test_ai_mod.carbon_utils.retry -- Try 2 failed: Error executing command, status code 400: Command "adb install -r /var/folders/8q/smz0w4_17pgdr93jq60158dr0000gn/T/app-7016190089615570474.apk" exited with code 255 and output: Performing Push Install
+adb: error: failed to get feature set: no devices/emulators found
+2021-05-01 20:32:38,468 ERROR    test_ai_mod.carbon_explore.explore -- unexpected error
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_explore/explore.py", line 318, in explore.perform_walk
+  File "test_ai_mod/carbon_initialization/initialization.py", line 188, in initialization.initialize_run
+  File "test_ai_mod/carbon_utils/simulator_tools.py", line 200, in simulator_tools.clean_iteration_state
+  File "test_ai_mod/carbon_automation/driver.py", line 289, in driver.Driver.install_app
+  File "test_ai_mod/carbon_utils/retry.py", line 82, in retry.RetryDecorator.__call__.wrapped
+RetryError: Max tries 3 reached without success.
+2021-05-01 20:32:38,470 ERROR    test_ai_mod.carbon_test_case.test_utils -- ***********************************************************************
+2021-05-01 20:32:38,470 ERROR    test_ai_mod.carbon_test_case.test_utils -- * TEST FAILURE: Unexpected error Max tries 3 reached without success. *
+2021-05-01 20:32:38,470 ERROR    test_ai_mod.carbon_test_case.test_utils -- ***********************************************************************
+2021-05-01 20:32:38,478 INFO     test_ai_mod.carbon_explore.explore -- performing post-walk cleanup
+2021-05-01 20:32:38,478 ERROR    test_ai_mod.carbon_explore.explore -- Error terminating app: com.equinox.android
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_explore/explore.py", line 360, in explore.perform_walk
+AttributeError: 'NoneType' object has no attribute 'terminate_app'
+2021-05-01 20:32:38,478 INFO     test_ai_mod.carbon_utils.simulator_tools -- performing post-test cleanup
+2021-05-01 20:32:38,478 INFO     test_ai_mod.carbon_utils.simulator_tools -- calling driver.quit
+2021-05-01 20:32:38,478 INFO     test_ai_mod.carbon_utils.simulator_tools -- issue quitting driver: 'NoneType' object has no attribute 'quit'
+2021-05-01 20:32:38,481 ERROR    test_ai_mod.carbon_tasks.regress_app_task -- problem encountered executing test
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_tasks/regress_app_task.py", line 170, in regress_app_task._regress_app
+  File "test_ai_mod/carbon_utils/performance_profiler.py", line 15, in performance_profiler.profile_method.decorator.wrapper
+  File "test_ai_mod/carbon_utils/performance_profiler.py", line 12, in performance_profiler.profile_method.decorator.wrapper
+  File "test_ai_mod/carbon_explore/explore.py", line 355, in explore.perform_walk
+  File "test_ai_mod/carbon_explore/explore.py", line 318, in explore.perform_walk
+  File "test_ai_mod/carbon_initialization/initialization.py", line 188, in initialization.initialize_run
+  File "test_ai_mod/carbon_utils/simulator_tools.py", line 200, in simulator_tools.clean_iteration_state
+  File "test_ai_mod/carbon_automation/driver.py", line 289, in driver.Driver.install_app
+  File "test_ai_mod/carbon_utils/retry.py", line 82, in retry.RetryDecorator.__call__.wrapped
+RetryError: Max tries 3 reached without success.
+2021-05-01 20:32:39,207 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Removing threaded log file handler for test run.

@@ -1,0 +1,3378 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png": "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_10_android.view.ViewGroup.png": "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_11_android.view.ViewGroup.png": "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_12_android.widget.FrameLayout.png": "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_13_android.view.ViewGroup.png": "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_14_android.view.ViewGroup.png": "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_15_android.widget.FrameLayout.png": "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_16_android.widget.FrameLayout.png": "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_17_android.widget.FrameLayout.png": "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_18_android.widget.FrameLayout.png": "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_19_android.view.View.png": "iter_00000_step_00000_19_android.view.View.png", 
+            "iter_00000_step_00000_1_android.widget.LinearLayout.png": "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_20_android.widget.ScrollView.png": "iter_00000_step_00000_20_android.widget.ScrollView.png", 
+            "iter_00000_step_00000_21_android.view.ViewGroup.png": "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_22_android.view.ViewGroup.png": "iter_00000_step_00000_22_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_23_android.view.ViewGroup.png": "iter_00000_step_00000_23_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_24_android.widget.TextView.png": "iter_00000_step_00000_24_android.widget.TextView.png", 
+            "iter_00000_step_00000_25_android.widget.TextView.png": "iter_00000_step_00000_25_android.widget.TextView.png", 
+            "iter_00000_step_00000_26_android.view.ViewGroup.png": "iter_00000_step_00000_26_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_27_android.view.ViewGroup.png": "iter_00000_step_00000_27_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_28_android.widget.TextView.png": "iter_00000_step_00001_28_android.widget.TextView.png", 
+            "iter_00000_step_00000_29_android.view.ViewGroup.png": "iter_00000_step_00001_29_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_2_android.widget.FrameLayout.png": "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_30_android.view.ViewGroup.png": "iter_00000_step_00001_30_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_31_android.widget.TextView.png": "iter_00000_step_00001_31_android.widget.TextView.png", 
+            "iter_00000_step_00000_32_android.widget.TextView.png": "iter_00000_step_00000_32_android.widget.TextView.png", 
+            "iter_00000_step_00000_33_android.widget.TextView.png": "iter_00000_step_00000_33_android.widget.TextView.png", 
+            "iter_00000_step_00000_34_android.widget.FrameLayout.png": "iter_00000_step_00000_34_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png": "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_5_android.widget.FrameLayout.png": "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_6_android.view.ViewGroup.png": "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_7_android.view.ViewGroup.png": "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_8_android.view.ViewGroup.png": "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_9_android.view.ViewGroup.png": "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_0_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_10_android.view.ViewGroup.png": "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_11_android.view.ViewGroup.png": "iter_00000_step_00001_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_12_android.widget.FrameLayout.png": "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_13_android.view.ViewGroup.png": "iter_00000_step_00001_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_14_android.view.ViewGroup.png": "iter_00000_step_00001_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_15_android.widget.FrameLayout.png": "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_16_android.widget.FrameLayout.png": "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_17_android.widget.FrameLayout.png": "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_18_android.widget.FrameLayout.png": "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_19_android.view.View.png": "iter_00000_step_00001_19_android.view.View.png", 
+            "iter_00000_step_00001_1_android.widget.LinearLayout.png": "iter_00000_step_00001_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00001_20_android.widget.ScrollView.png": "iter_00000_step_00001_20_android.widget.ScrollView.png", 
+            "iter_00000_step_00001_21_android.view.ViewGroup.png": "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_22_android.view.ViewGroup.png": "iter_00000_step_00001_22_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_23_android.view.ViewGroup.png": "iter_00000_step_00001_23_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_24_android.widget.TextView.png": "iter_00000_step_00001_24_android.widget.TextView.png", 
+            "iter_00000_step_00001_25_android.widget.TextView.png": "iter_00000_step_00001_25_android.widget.TextView.png", 
+            "iter_00000_step_00001_26_android.view.ViewGroup.png": "iter_00000_step_00001_26_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_27_android.view.ViewGroup.png": "iter_00000_step_00001_27_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_28_android.widget.TextView.png": "iter_00000_step_00001_28_android.widget.TextView.png", 
+            "iter_00000_step_00001_29_android.view.ViewGroup.png": "iter_00000_step_00001_29_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_2_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_30_android.view.ViewGroup.png": "iter_00000_step_00001_30_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_31_android.widget.TextView.png": "iter_00000_step_00001_31_android.widget.TextView.png", 
+            "iter_00000_step_00001_32_android.widget.TextView.png": "iter_00000_step_00001_32_android.widget.TextView.png", 
+            "iter_00000_step_00001_33_android.widget.TextView.png": "iter_00000_step_00001_33_android.widget.TextView.png", 
+            "iter_00000_step_00001_34_android.widget.FrameLayout.png": "iter_00000_step_00001_34_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_3_android.widget.LinearLayout.png": "iter_00000_step_00001_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00001_4_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_5_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_6_android.view.ViewGroup.png": "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_7_android.view.ViewGroup.png": "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_8_android.view.ViewGroup.png": "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_9_android.view.ViewGroup.png": "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_0_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_10_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_11_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_12_android.view.ViewGroup.png": "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_13_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_14_android.view.ViewGroup.png": "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_15_android.view.ViewGroup.png": "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_16_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_17_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_18_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_19_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_1_android.widget.LinearLayout.png": "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00002_20_android.view.View.png": "iter_00000_step_00004_20_android.view.View.png", 
+            "iter_00000_step_00002_21_android.widget.ScrollView.png": "iter_00000_step_00004_21_android.widget.ScrollView.png", 
+            "iter_00000_step_00002_22_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_23_android.view.ViewGroup.png": "iter_00000_step_00004_23_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_24_android.view.ViewGroup.png": "iter_00000_step_00004_24_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_25_android.widget.TextView.png": "iter_00000_step_00004_25_android.widget.TextView.png", 
+            "iter_00000_step_00002_26_android.widget.TextView.png": "iter_00000_step_00004_26_android.widget.TextView.png", 
+            "iter_00000_step_00002_27_android.view.ViewGroup.png": "iter_00000_step_00004_27_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_28_android.view.ViewGroup.png": "iter_00000_step_00004_28_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_29_android.widget.TextView.png": "iter_00000_step_00004_29_android.widget.TextView.png", 
+            "iter_00000_step_00002_2_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_30_android.view.ViewGroup.png": "iter_00000_step_00004_30_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_31_android.view.ViewGroup.png": "iter_00000_step_00004_31_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_32_android.widget.TextView.png": "iter_00000_step_00004_32_android.widget.TextView.png", 
+            "iter_00000_step_00002_33_android.widget.TextView.png": "iter_00000_step_00004_33_android.widget.TextView.png", 
+            "iter_00000_step_00002_34_android.widget.TextView.png": "iter_00000_step_00004_34_android.widget.TextView.png", 
+            "iter_00000_step_00002_35_android.view.ViewGroup.png": "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_36_android.view.ViewGroup.png": "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_37_android.view.ViewGroup.png": "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_38_android.widget.ScrollView.png": "iter_00000_step_00004_38_android.widget.ScrollView.png", 
+            "iter_00000_step_00002_39_android.view.ViewGroup.png": "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_3_android.widget.LinearLayout.png": "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00002_40_android.view.ViewGroup.png": "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_41_android.view.ViewGroup.png": "iter_00000_step_00004_41_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_42_android.view.ViewGroup.png": "iter_00000_step_00004_42_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_43_android.view.ViewGroup.png": "iter_00000_step_00004_43_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_44_android.view.ViewGroup.png": "iter_00000_step_00004_44_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_45_android.widget.TextView.png": "iter_00000_step_00004_45_android.widget.TextView.png", 
+            "iter_00000_step_00002_46_android.view.ViewGroup.png": "iter_00000_step_00004_46_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_47_android.widget.EditText.png": "iter_00000_step_00004_47_android.widget.EditText.png", 
+            "iter_00000_step_00002_48_android.widget.TextView.png": "iter_00000_step_00004_48_android.widget.TextView.png", 
+            "iter_00000_step_00002_49_android.view.ViewGroup.png": "iter_00000_step_00004_49_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_4_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_50_android.widget.EditText.png": "iter_00000_step_00004_50_android.widget.EditText.png", 
+            "iter_00000_step_00002_51_android.widget.TextView.png": "iter_00000_step_00004_51_android.widget.TextView.png", 
+            "iter_00000_step_00002_52_android.widget.TextView.png": "iter_00000_step_00004_52_android.widget.TextView.png", 
+            "iter_00000_step_00002_53_android.view.ViewGroup.png": "iter_00000_step_00003_53_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_54_android.view.ViewGroup.png": "iter_00000_step_00003_54_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_55_android.widget.TextView.png": "iter_00000_step_00003_55_android.widget.TextView.png", 
+            "iter_00000_step_00002_56_android.widget.TextView.png": "iter_00000_step_00004_56_android.widget.TextView.png", 
+            "iter_00000_step_00002_57_android.widget.FrameLayout.png": "iter_00000_step_00004_57_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_5_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_6_android.view.ViewGroup.png": "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_7_android.view.ViewGroup.png": "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_8_android.view.ViewGroup.png": "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+            "iter_00000_step_00002_9_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_0_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_10_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_11_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_12_android.view.ViewGroup.png": "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_13_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_14_android.view.ViewGroup.png": "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_15_android.view.ViewGroup.png": "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_16_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_17_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_18_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_19_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_1_android.widget.LinearLayout.png": "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00003_20_android.view.View.png": "iter_00000_step_00004_20_android.view.View.png", 
+            "iter_00000_step_00003_21_android.widget.ScrollView.png": "iter_00000_step_00004_21_android.widget.ScrollView.png", 
+            "iter_00000_step_00003_22_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_23_android.view.ViewGroup.png": "iter_00000_step_00004_23_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_24_android.view.ViewGroup.png": "iter_00000_step_00004_24_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_25_android.widget.TextView.png": "iter_00000_step_00004_25_android.widget.TextView.png", 
+            "iter_00000_step_00003_26_android.widget.TextView.png": "iter_00000_step_00004_26_android.widget.TextView.png", 
+            "iter_00000_step_00003_27_android.view.ViewGroup.png": "iter_00000_step_00004_27_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_28_android.view.ViewGroup.png": "iter_00000_step_00004_28_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_29_android.widget.TextView.png": "iter_00000_step_00004_29_android.widget.TextView.png", 
+            "iter_00000_step_00003_2_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_30_android.view.ViewGroup.png": "iter_00000_step_00004_30_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_31_android.view.ViewGroup.png": "iter_00000_step_00004_31_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_32_android.widget.TextView.png": "iter_00000_step_00004_32_android.widget.TextView.png", 
+            "iter_00000_step_00003_33_android.widget.TextView.png": "iter_00000_step_00004_33_android.widget.TextView.png", 
+            "iter_00000_step_00003_34_android.widget.TextView.png": "iter_00000_step_00004_34_android.widget.TextView.png", 
+            "iter_00000_step_00003_35_android.view.ViewGroup.png": "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_36_android.view.ViewGroup.png": "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_37_android.view.ViewGroup.png": "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_38_android.widget.ScrollView.png": "iter_00000_step_00004_38_android.widget.ScrollView.png", 
+            "iter_00000_step_00003_39_android.view.ViewGroup.png": "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_3_android.widget.LinearLayout.png": "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00003_40_android.view.ViewGroup.png": "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_41_android.view.ViewGroup.png": "iter_00000_step_00004_41_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_42_android.view.ViewGroup.png": "iter_00000_step_00004_42_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_43_android.view.ViewGroup.png": "iter_00000_step_00004_43_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_44_android.view.ViewGroup.png": "iter_00000_step_00004_44_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_45_android.widget.TextView.png": "iter_00000_step_00004_45_android.widget.TextView.png", 
+            "iter_00000_step_00003_46_android.view.ViewGroup.png": "iter_00000_step_00004_46_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_47_android.widget.EditText.png": "iter_00000_step_00004_47_android.widget.EditText.png", 
+            "iter_00000_step_00003_48_android.widget.TextView.png": "iter_00000_step_00004_48_android.widget.TextView.png", 
+            "iter_00000_step_00003_49_android.view.ViewGroup.png": "iter_00000_step_00004_49_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_4_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_50_android.widget.EditText.png": "iter_00000_step_00004_50_android.widget.EditText.png", 
+            "iter_00000_step_00003_51_android.widget.TextView.png": "iter_00000_step_00004_51_android.widget.TextView.png", 
+            "iter_00000_step_00003_52_android.widget.TextView.png": "iter_00000_step_00004_52_android.widget.TextView.png", 
+            "iter_00000_step_00003_53_android.view.ViewGroup.png": "iter_00000_step_00003_53_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_54_android.view.ViewGroup.png": "iter_00000_step_00003_54_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_55_android.widget.TextView.png": "iter_00000_step_00003_55_android.widget.TextView.png", 
+            "iter_00000_step_00003_56_android.widget.TextView.png": "iter_00000_step_00004_56_android.widget.TextView.png", 
+            "iter_00000_step_00003_57_android.widget.FrameLayout.png": "iter_00000_step_00004_57_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_5_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_6_android.view.ViewGroup.png": "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_7_android.view.ViewGroup.png": "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_8_android.view.ViewGroup.png": "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_9_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_0_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_10_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_11_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_12_android.view.ViewGroup.png": "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_13_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_14_android.view.ViewGroup.png": "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_15_android.view.ViewGroup.png": "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_16_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_17_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_18_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_19_android.widget.FrameLayout.png": "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_1_android.widget.LinearLayout.png": "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00004_20_android.view.View.png": "iter_00000_step_00004_20_android.view.View.png", 
+            "iter_00000_step_00004_21_android.widget.ScrollView.png": "iter_00000_step_00004_21_android.widget.ScrollView.png", 
+            "iter_00000_step_00004_22_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_23_android.view.ViewGroup.png": "iter_00000_step_00004_23_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_24_android.view.ViewGroup.png": "iter_00000_step_00004_24_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_25_android.widget.TextView.png": "iter_00000_step_00004_25_android.widget.TextView.png", 
+            "iter_00000_step_00004_26_android.widget.TextView.png": "iter_00000_step_00004_26_android.widget.TextView.png", 
+            "iter_00000_step_00004_27_android.view.ViewGroup.png": "iter_00000_step_00004_27_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_28_android.view.ViewGroup.png": "iter_00000_step_00004_28_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_29_android.widget.TextView.png": "iter_00000_step_00004_29_android.widget.TextView.png", 
+            "iter_00000_step_00004_2_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_30_android.view.ViewGroup.png": "iter_00000_step_00004_30_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_31_android.view.ViewGroup.png": "iter_00000_step_00004_31_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_32_android.widget.TextView.png": "iter_00000_step_00004_32_android.widget.TextView.png", 
+            "iter_00000_step_00004_33_android.widget.TextView.png": "iter_00000_step_00004_33_android.widget.TextView.png", 
+            "iter_00000_step_00004_34_android.widget.TextView.png": "iter_00000_step_00004_34_android.widget.TextView.png", 
+            "iter_00000_step_00004_35_android.view.ViewGroup.png": "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_36_android.view.ViewGroup.png": "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_37_android.view.ViewGroup.png": "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_38_android.widget.ScrollView.png": "iter_00000_step_00004_38_android.widget.ScrollView.png", 
+            "iter_00000_step_00004_39_android.view.ViewGroup.png": "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_3_android.widget.LinearLayout.png": "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00004_40_android.view.ViewGroup.png": "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_41_android.view.ViewGroup.png": "iter_00000_step_00004_41_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_42_android.view.ViewGroup.png": "iter_00000_step_00004_42_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_43_android.view.ViewGroup.png": "iter_00000_step_00004_43_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_44_android.view.ViewGroup.png": "iter_00000_step_00004_44_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_45_android.widget.TextView.png": "iter_00000_step_00004_45_android.widget.TextView.png", 
+            "iter_00000_step_00004_46_android.view.ViewGroup.png": "iter_00000_step_00004_46_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_47_android.widget.EditText.png": "iter_00000_step_00004_47_android.widget.EditText.png", 
+            "iter_00000_step_00004_48_android.widget.TextView.png": "iter_00000_step_00004_48_android.widget.TextView.png", 
+            "iter_00000_step_00004_49_android.view.ViewGroup.png": "iter_00000_step_00004_49_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_4_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_50_android.widget.EditText.png": "iter_00000_step_00004_50_android.widget.EditText.png", 
+            "iter_00000_step_00004_51_android.widget.TextView.png": "iter_00000_step_00004_51_android.widget.TextView.png", 
+            "iter_00000_step_00004_52_android.widget.TextView.png": "iter_00000_step_00004_52_android.widget.TextView.png", 
+            "iter_00000_step_00004_53_android.view.ViewGroup.png": "iter_00000_step_00004_53_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_54_android.view.ViewGroup.png": "iter_00000_step_00004_54_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_55_android.widget.TextView.png": "iter_00000_step_00004_55_android.widget.TextView.png", 
+            "iter_00000_step_00004_56_android.widget.TextView.png": "iter_00000_step_00004_56_android.widget.TextView.png", 
+            "iter_00000_step_00004_57_android.widget.FrameLayout.png": "iter_00000_step_00004_57_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_5_android.widget.FrameLayout.png": "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_6_android.view.ViewGroup.png": "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_7_android.view.ViewGroup.png": "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_8_android.view.ViewGroup.png": "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_9_android.view.ViewGroup.png": "iter_00000_step_00004_9_android.view.ViewGroup.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_14_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+                    "iter_00000_step_00000_13_android.view.ViewGroup.png", 
+                    "iter_00000_step_00000_11_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "uP3flP2CIrs2LEzVNQHt4w==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.ViewGroup_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_18_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_17_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_16_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_15_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_12_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "ptBBtPtNXz2pX7B3djbtQw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_19_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_19_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "iHQcpL2+AkjR2GuHPzOViA==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.View_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_20_android.widget.ScrollView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_20_android.widget.ScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ScrollView", 
+                    "hash": "3nGGaJEL/myNlqv/ompxWw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.ScrollView_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.ScrollView", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "android.widget.scrollview", 
+                    "all_elems", 
+                    "scrollview", 
+                    "scroll"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00000_22_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_22_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "dw+UntZOHcKMewY2fFVMBw==\n", 
+                    "height": 1000, 
+                    "human_hash": "android.view.ViewGroup_X44_Y0_W992_H1000", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area!", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!"
+                ]
+            }, 
+            "iter_00000_step_00000_23_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_23_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "MzV7TyXwbK7lppEPD9xclw==\n", 
+                    "height": 41, 
+                    "human_hash": "android.view.ViewGroup_X926_Y199_W110_H41", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "", 
+                    "width": 110, 
+                    "x": 926, 
+                    "y": 199
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_24_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_24_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "7u/913sCVw/EWCnneMeXpg==\n", 
+                    "height": 220, 
+                    "human_hash": "android.widget.TextView_X44_Y350_W992_H220", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "The best brands in fitnessnow on demand.", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 350
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand."
+                ]
+            }, 
+            "iter_00000_step_00000_25_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_25_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "KQh4vCBBapP21nSrNt6sHA==\n", 
+                    "height": 320, 
+                    "human_hash": "android.widget.TextView_X44_Y680_W992_H320", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area!", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 680
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!"
+                ]
+            }, 
+            "iter_00000_step_00000_26_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_26_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "Qre7OtIBd5iA4Yer6Hn+eQ==\n", 
+                    "height": 151, 
+                    "human_hash": "android.view.ViewGroup_X44_Y1435_W992_H151", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Dev Menu", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1435
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Dev_Menu"
+                ]
+            }, 
+            "iter_00000_step_00000_27_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_27_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "ytiXl736M9x3Xd6Qit9eoA==\n", 
+                    "height": 61, 
+                    "human_hash": "android.view.ViewGroup_X44_Y1480_W992_H61", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Dev Menu", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1480
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Dev_Menu"
+                ]
+            }, 
+            "iter_00000_step_00000_32_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_32_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "YESHyXNXOA5p5rv30D2+/w==\n", 
+                    "height": 61, 
+                    "human_hash": "android.widget.TextView_X391_Y1890_W299_H61", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Equinox member?", 
+                    "width": 299, 
+                    "x": 391, 
+                    "y": 1890
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Equinox_member?"
+                ]
+            }, 
+            "iter_00000_step_00000_33_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_33_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "pzwFGqbN/Ems5M4Br//90Q==\n", 
+                    "height": 26, 
+                    "human_hash": "android.widget.TextView_X327_Y1951_W427_H26", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Create your Variis account", 
+                    "width": 427, 
+                    "x": 327, 
+                    "y": 1951
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00000_34_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_34_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "XRZ9lrY+EtXasjO/aVR6sA==\n", 
+                    "height": 1842, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y135_W1080_H1842", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 135
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00000_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "MUuu9U2YAQDVfZQVl19zTQ==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00000_5_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "uipsSIPItX0PBpSqkFbOag==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00000_9_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+                    "iter_00000_step_00000_8_android.view.ViewGroup.png", 
+                    "iter_00000_step_00000_7_android.view.ViewGroup.png", 
+                    "iter_00000_step_00000_6_android.view.ViewGroup.png", 
+                    "iter_00000_step_00000_21_android.view.ViewGroup.png", 
+                    "iter_00000_step_00000_10_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "jXvXLxFH6dOVowi5jxFjPw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.ViewGroup_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00001_14_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00001_14_android.view.ViewGroup.png", 
+                    "iter_00000_step_00001_13_android.view.ViewGroup.png", 
+                    "iter_00000_step_00001_11_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "uP3flP2CIrs2LEzVNQHt4w==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.ViewGroup_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_18_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00001_17_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00001_16_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00001_15_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00001_12_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "ptBBtPtNXz2pX7B3djbtQw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_19_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_19_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "iHQcpL2+AkjR2GuHPzOViA==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.View_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_20_android.widget.ScrollView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_20_android.widget.ScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ScrollView", 
+                    "hash": "3nGGaJEL/myNlqv/ompxWw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.ScrollView_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.ScrollView", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "android.widget.scrollview", 
+                    "all_elems", 
+                    "scrollview", 
+                    "scroll"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00001_22_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_22_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "dw+UntZOHcKMewY2fFVMBw==\n", 
+                    "height": 1000, 
+                    "human_hash": "android.view.ViewGroup_X44_Y0_W992_H1000", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area!", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!"
+                ]
+            }, 
+            "iter_00000_step_00001_23_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_23_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "MzV7TyXwbK7lppEPD9xclw==\n", 
+                    "height": 41, 
+                    "human_hash": "android.view.ViewGroup_X926_Y199_W110_H41", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "", 
+                    "width": 110, 
+                    "x": 926, 
+                    "y": 199
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_24_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_24_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "7u/913sCVw/EWCnneMeXpg==\n", 
+                    "height": 220, 
+                    "human_hash": "android.widget.TextView_X44_Y350_W992_H220", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "The best brands in fitnessnow on demand.", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 350
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand."
+                ]
+            }, 
+            "iter_00000_step_00001_25_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_25_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "KQh4vCBBapP21nSrNt6sHA==\n", 
+                    "height": 320, 
+                    "human_hash": "android.widget.TextView_X44_Y680_W992_H320", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area!", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 680
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!"
+                ]
+            }, 
+            "iter_00000_step_00001_26_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_26_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "Qre7OtIBd5iA4Yer6Hn+eQ==\n", 
+                    "height": 151, 
+                    "human_hash": "android.view.ViewGroup_X44_Y1435_W992_H151", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Dev Menu", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1435
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Dev_Menu"
+                ]
+            }, 
+            "iter_00000_step_00001_27_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_27_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "ytiXl736M9x3Xd6Qit9eoA==\n", 
+                    "height": 61, 
+                    "human_hash": "android.view.ViewGroup_X44_Y1480_W992_H61", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Dev Menu", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1480
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Dev_Menu"
+                ]
+            }, 
+            "iter_00000_step_00001_28_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_28_android.widget.TextView.png", 
+                    "iter_00000_step_00000_28_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "mqf3qSACvWYkZ3rv2QfsKg==\n", 
+                    "height": 61, 
+                    "human_hash": "android.widget.TextView_X450_Y1480_W181_H61", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Dev Menu", 
+                    "width": 181, 
+                    "x": 450, 
+                    "y": 1480
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Dev_Menu"
+                ]
+            }, 
+            "iter_00000_step_00001_29_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_29_android.view.ViewGroup.png", 
+                    "iter_00000_step_00000_29_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "CaZUIueaht5EJDScHUYGgw==\n", 
+                    "height": 151, 
+                    "human_hash": "android.view.ViewGroup_X44_Y1655_W992_H151", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign in with Variis", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1655
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis"
+                ]
+            }, 
+            "iter_00000_step_00001_30_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_30_android.view.ViewGroup.png", 
+                    "iter_00000_step_00000_30_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "GtXmgIjsJ64KjMD5rO5cVQ==\n", 
+                    "height": 61, 
+                    "human_hash": "android.view.ViewGroup_X44_Y1700_W992_H61", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign in with Variis", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1700
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis"
+                ]
+            }, 
+            "iter_00000_step_00001_31_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_31_android.widget.TextView.png", 
+                    "iter_00000_step_00000_31_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "ATUjcqj+Y29FFtyOGAOSiw==\n", 
+                    "height": 61, 
+                    "human_hash": "android.widget.TextView_X383_Y1700_W315_H61", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Sign in with Variis", 
+                    "width": 315, 
+                    "x": 383, 
+                    "y": 1700
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis"
+                ]
+            }, 
+            "iter_00000_step_00001_32_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_32_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "YESHyXNXOA5p5rv30D2+/w==\n", 
+                    "height": 61, 
+                    "human_hash": "android.widget.TextView_X391_Y1890_W299_H61", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Equinox member?", 
+                    "width": 299, 
+                    "x": 391, 
+                    "y": 1890
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Equinox_member?"
+                ]
+            }, 
+            "iter_00000_step_00001_33_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_33_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "pzwFGqbN/Ems5M4Br//90Q==\n", 
+                    "height": 26, 
+                    "human_hash": "android.widget.TextView_X327_Y1951_W427_H26", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Create your Variis account", 
+                    "width": 427, 
+                    "x": 327, 
+                    "y": 1951
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00001_34_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00001_34_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "XRZ9lrY+EtXasjO/aVR6sA==\n", 
+                    "height": 1842, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y135_W1080_H1842", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 135
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_3_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00001_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "MUuu9U2YAQDVfZQVl19zTQ==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00001_5_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00001_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00001_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00001_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "uipsSIPItX0PBpSqkFbOag==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00001_9_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+                    "iter_00000_step_00001_8_android.view.ViewGroup.png", 
+                    "iter_00000_step_00001_7_android.view.ViewGroup.png", 
+                    "iter_00000_step_00001_6_android.view.ViewGroup.png", 
+                    "iter_00000_step_00001_21_android.view.ViewGroup.png", 
+                    "iter_00000_step_00001_10_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "jXvXLxFH6dOVowi5jxFjPw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.ViewGroup_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00003_53_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_53_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_53_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "iQwTwdiG5HUE+HSAOhlhoQ==\n", 
+                    "height": 132, 
+                    "human_hash": "android.view.ViewGroup_X265_Y1201_W550_H132", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign In", 
+                    "width": 550, 
+                    "x": 265, 
+                    "y": 1201
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00003_54_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_54_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_54_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "NjPqLyxetXsuED9iHZRHzQ==\n", 
+                    "height": 44, 
+                    "human_hash": "android.view.ViewGroup_X265_Y1245_W550_H44", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign In", 
+                    "width": 550, 
+                    "x": 265, 
+                    "y": 1245
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00003_55_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_55_android.widget.TextView.png", 
+                    "iter_00000_step_00002_55_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "02tjHL+oQGka4JiZHUd/mg==\n", 
+                    "height": 44, 
+                    "human_hash": "android.widget.TextView_X494_Y1245_W92_H44", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Sign In", 
+                    "width": 92, 
+                    "x": 494, 
+                    "y": 1245
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00004_15_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 9, 
+                "dupes": [
+                    "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+                    "iter_00000_step_00004_14_android.view.ViewGroup.png", 
+                    "iter_00000_step_00004_12_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_15_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_14_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_12_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_15_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_14_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_12_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "uP3flP2CIrs2LEzVNQHt4w==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.ViewGroup_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_19_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 15, 
+                "dupes": [
+                    "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_18_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_17_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_16_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_13_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_19_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_18_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_17_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_16_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_13_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_19_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_18_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_17_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_16_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_13_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "ptBBtPtNXz2pX7B3djbtQw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_20_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_20_android.view.View.png", 
+                    "iter_00000_step_00003_20_android.view.View.png", 
+                    "iter_00000_step_00002_20_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "iHQcpL2+AkjR2GuHPzOViA==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.View_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_21_android.widget.ScrollView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_21_android.widget.ScrollView.png", 
+                    "iter_00000_step_00003_21_android.widget.ScrollView.png", 
+                    "iter_00000_step_00002_21_android.widget.ScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ScrollView", 
+                    "hash": "3nGGaJEL/myNlqv/ompxWw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.ScrollView_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.ScrollView", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "android.widget.scrollview", 
+                    "all_elems", 
+                    "scrollview", 
+                    "scroll"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00004_23_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_23_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_23_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_23_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "dw+UntZOHcKMewY2fFVMBw==\n", 
+                    "height": 1000, 
+                    "human_hash": "android.view.ViewGroup_X44_Y0_W992_H1000", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area!", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!"
+                ]
+            }, 
+            "iter_00000_step_00004_24_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_24_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_24_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_24_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "MzV7TyXwbK7lppEPD9xclw==\n", 
+                    "height": 41, 
+                    "human_hash": "android.view.ViewGroup_X926_Y199_W110_H41", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "", 
+                    "width": 110, 
+                    "x": 926, 
+                    "y": 199
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_25_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_25_android.widget.TextView.png", 
+                    "iter_00000_step_00003_25_android.widget.TextView.png", 
+                    "iter_00000_step_00002_25_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "7u/913sCVw/EWCnneMeXpg==\n", 
+                    "height": 220, 
+                    "human_hash": "android.widget.TextView_X44_Y350_W992_H220", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "The best brands in fitnessnow on demand.", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 350
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand."
+                ]
+            }, 
+            "iter_00000_step_00004_26_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_26_android.widget.TextView.png", 
+                    "iter_00000_step_00003_26_android.widget.TextView.png", 
+                    "iter_00000_step_00002_26_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "KQh4vCBBapP21nSrNt6sHA==\n", 
+                    "height": 320, 
+                    "human_hash": "android.widget.TextView_X44_Y680_W992_H320", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area!", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 680
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!"
+                ]
+            }, 
+            "iter_00000_step_00004_27_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_27_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_27_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_27_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "Qre7OtIBd5iA4Yer6Hn+eQ==\n", 
+                    "height": 151, 
+                    "human_hash": "android.view.ViewGroup_X44_Y1435_W992_H151", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Dev Menu", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1435
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Dev_Menu"
+                ]
+            }, 
+            "iter_00000_step_00004_28_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_28_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_28_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_28_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "ytiXl736M9x3Xd6Qit9eoA==\n", 
+                    "height": 61, 
+                    "human_hash": "android.view.ViewGroup_X44_Y1480_W992_H61", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Dev Menu", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1480
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Dev_Menu"
+                ]
+            }, 
+            "iter_00000_step_00004_29_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_29_android.widget.TextView.png", 
+                    "iter_00000_step_00003_29_android.widget.TextView.png", 
+                    "iter_00000_step_00002_29_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "mqf3qSACvWYkZ3rv2QfsKg==\n", 
+                    "height": 61, 
+                    "human_hash": "android.widget.TextView_X450_Y1480_W181_H61", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Dev Menu", 
+                    "width": 181, 
+                    "x": 450, 
+                    "y": 1480
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Dev_Menu"
+                ]
+            }, 
+            "iter_00000_step_00004_30_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_30_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_30_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_30_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "CaZUIueaht5EJDScHUYGgw==\n", 
+                    "height": 151, 
+                    "human_hash": "android.view.ViewGroup_X44_Y1655_W992_H151", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign in with Variis", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1655
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis"
+                ]
+            }, 
+            "iter_00000_step_00004_31_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_31_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_31_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_31_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "GtXmgIjsJ64KjMD5rO5cVQ==\n", 
+                    "height": 61, 
+                    "human_hash": "android.view.ViewGroup_X44_Y1700_W992_H61", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign in with Variis", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1700
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis"
+                ]
+            }, 
+            "iter_00000_step_00004_32_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_32_android.widget.TextView.png", 
+                    "iter_00000_step_00003_32_android.widget.TextView.png", 
+                    "iter_00000_step_00002_32_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "ATUjcqj+Y29FFtyOGAOSiw==\n", 
+                    "height": 61, 
+                    "human_hash": "android.widget.TextView_X383_Y1700_W315_H61", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Sign in with Variis", 
+                    "width": 315, 
+                    "x": 383, 
+                    "y": 1700
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis"
+                ]
+            }, 
+            "iter_00000_step_00004_33_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_33_android.widget.TextView.png", 
+                    "iter_00000_step_00003_33_android.widget.TextView.png", 
+                    "iter_00000_step_00002_33_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "YESHyXNXOA5p5rv30D2+/w==\n", 
+                    "height": 61, 
+                    "human_hash": "android.widget.TextView_X391_Y1890_W299_H61", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Equinox member?", 
+                    "width": 299, 
+                    "x": 391, 
+                    "y": 1890
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Equinox_member?"
+                ]
+            }, 
+            "iter_00000_step_00004_34_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_34_android.widget.TextView.png", 
+                    "iter_00000_step_00003_34_android.widget.TextView.png", 
+                    "iter_00000_step_00002_34_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "pzwFGqbN/Ems5M4Br//90Q==\n", 
+                    "height": 26, 
+                    "human_hash": "android.widget.TextView_X327_Y1951_W427_H26", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Create your Variis account", 
+                    "width": 427, 
+                    "x": 327, 
+                    "y": 1951
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Create_your_Variis_account"
+                ]
+            }, 
+            "iter_00000_step_00004_37_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 9, 
+                "dupes": [
+                    "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+                    "iter_00000_step_00004_36_android.view.ViewGroup.png", 
+                    "iter_00000_step_00004_35_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_37_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_36_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_35_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_37_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_36_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_35_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "CjBR9xvBLPCO5iOJK0MWKQ==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.ViewGroup_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign in with Variis. testuser1@px.com EMAIL PASSWORD By clicking \"Sign In\", you agree to our Terms and Conditions and consent to our Privacy Policy. Sign In Forgot password", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis._testuser1@px.com_EMAIL_PASSWORD_By_clicking_\"Sign_In\",_you_agree_to_our_Terms_and_Conditions_and_consent_to_our_Privacy_Policy._Sign_In_Forgot_password"
+                ]
+            }, 
+            "iter_00000_step_00004_38_android.widget.ScrollView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_38_android.widget.ScrollView.png", 
+                    "iter_00000_step_00003_38_android.widget.ScrollView.png", 
+                    "iter_00000_step_00002_38_android.widget.ScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ScrollView", 
+                    "hash": "T8sYFm/MOSIcTtLP442OgA==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.ScrollView_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.ScrollView", 
+                    "text": "Sign in with Variis. testuser1@px.com EMAIL PASSWORD By clicking \"Sign In\", you agree to our Terms and Conditions and consent to our Privacy Policy. Sign In Forgot password", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "android.widget.scrollview", 
+                    "all_elems", 
+                    "scrollview", 
+                    "scroll"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis._testuser1@px.com_EMAIL_PASSWORD_By_clicking_\"Sign_In\",_you_agree_to_our_Terms_and_Conditions_and_consent_to_our_Privacy_Policy._Sign_In_Forgot_password"
+                ]
+            }, 
+            "iter_00000_step_00004_3_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00004_1_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00003_1_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00002_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00002_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "ZXK9L7H6chHdQWy4uwjJhw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account Sign in with Variis. testuser1@px.com EMAIL PASSWORD By clicking \"Sign In\", you agree to our Terms and Conditions and consent to our Privacy Policy. Sign In Forgot password", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account_Sign_in_with_Variis._testuser1@px.com_EMAIL_PASSWORD_By_clicking_\"Sign_In\",_you_agree_to_our_Terms_and_Conditions_and_consent_to_our_Privacy_Policy._Sign_In_Forgot_password"
+                ]
+            }, 
+            "iter_00000_step_00004_40_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+                    "iter_00000_step_00004_39_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_40_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_39_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_40_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_39_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "pqMq10kCJ8UJlGJ84LrS4g==\n", 
+                    "height": 1438, 
+                    "human_hash": "android.view.ViewGroup_X44_Y0_W992_H1438", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign in with Variis. testuser1@px.com EMAIL PASSWORD By clicking \"Sign In\", you agree to our Terms and Conditions and consent to our Privacy Policy. Sign In Forgot password", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis._testuser1@px.com_EMAIL_PASSWORD_By_clicking_\"Sign_In\",_you_agree_to_our_Terms_and_Conditions_and_consent_to_our_Privacy_Policy._Sign_In_Forgot_password"
+                ]
+            }, 
+            "iter_00000_step_00004_41_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_41_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_41_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_41_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "n0U6PABB+20X1YrMbeFt4g==\n", 
+                    "height": 540, 
+                    "human_hash": "android.view.ViewGroup_X44_Y0_W992_H540", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign in with Variis.", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis."
+                ]
+            }, 
+            "iter_00000_step_00004_42_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_42_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_42_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_42_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "w2YcZsSYn50g2zfZTSL+xA==\n", 
+                    "height": 121, 
+                    "human_hash": "android.view.ViewGroup_X44_Y199_W72_H121", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "", 
+                    "width": 72, 
+                    "x": 44, 
+                    "y": 199
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_43_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_43_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_43_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_43_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "oku0u8DWJHfJc+ESPz70xQ==\n", 
+                    "height": 38, 
+                    "human_hash": "android.view.ViewGroup_X45_Y240_W22_H38", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "", 
+                    "width": 22, 
+                    "x": 45, 
+                    "y": 240
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_44_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_44_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_44_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_44_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "6QnYhWLwM30YrBaCnv3oIw==\n", 
+                    "height": 42, 
+                    "human_hash": "android.view.ViewGroup_X926_Y239_W110_H42", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "", 
+                    "width": 110, 
+                    "x": 926, 
+                    "y": 239
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_45_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_45_android.widget.TextView.png", 
+                    "iter_00000_step_00003_45_android.widget.TextView.png", 
+                    "iter_00000_step_00002_45_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "k7QXUwDn5A6L8xYq3k71cg==\n", 
+                    "height": 110, 
+                    "human_hash": "android.widget.TextView_X44_Y430_W992_H110", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Sign in with Variis.", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 430
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Sign_in_with_Variis."
+                ]
+            }, 
+            "iter_00000_step_00004_46_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_46_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_46_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_46_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "kkZSoi5lvkGS2wqwMcF5Mg==\n", 
+                    "height": 176, 
+                    "human_hash": "android.view.ViewGroup_X44_Y595_W992_H176", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "testuser1@px.com EMAIL", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 595
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "testuser1@px.com_EMAIL"
+                ]
+            }, 
+            "iter_00000_step_00004_47_android.widget.EditText.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_47_android.widget.EditText.png", 
+                    "iter_00000_step_00003_47_android.widget.EditText.png", 
+                    "iter_00000_step_00002_47_android.widget.EditText.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.EditText", 
+                    "hash": "3qLdNzNFE0DUtAhV86rGrA==\n", 
+                    "height": 173, 
+                    "human_hash": "android.widget.EditText_X116_Y598_W825_H173", 
+                    "tag_name": "android.widget.EditText", 
+                    "text": "testuser1@px.com", 
+                    "width": 825, 
+                    "x": 116, 
+                    "y": 598
+                }, 
+                "tags": [
+                    "edit", 
+                    "edittext", 
+                    "android.widget.edittext", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "testuser1@px.com"
+                ]
+            }, 
+            "iter_00000_step_00004_48_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_48_android.widget.TextView.png", 
+                    "iter_00000_step_00003_48_android.widget.TextView.png", 
+                    "iter_00000_step_00002_48_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "6a7MDi1Twqqjot4LlnIIFQ==\n", 
+                    "height": 50, 
+                    "human_hash": "android.widget.TextView_X116_Y620_W100_H50", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "EMAIL", 
+                    "width": 100, 
+                    "x": 116, 
+                    "y": 620
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "EMAIL"
+                ]
+            }, 
+            "iter_00000_step_00004_49_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_49_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_49_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_49_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "xt/pyKHCNsr3nI/ehWBCjw==\n", 
+                    "height": 176, 
+                    "human_hash": "android.view.ViewGroup_X44_Y826_W992_H176", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "PASSWORD", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 826
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "PASSWORD"
+                ]
+            }, 
+            "iter_00000_step_00004_50_android.widget.EditText.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_50_android.widget.EditText.png", 
+                    "iter_00000_step_00003_50_android.widget.EditText.png", 
+                    "iter_00000_step_00002_50_android.widget.EditText.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.EditText", 
+                    "hash": "6VH9GK1GKZKCDNtY1z4SrA==\n", 
+                    "height": 173, 
+                    "human_hash": "android.widget.EditText_X116_Y829_W825_H173", 
+                    "tag_name": "android.widget.EditText", 
+                    "text": "", 
+                    "width": 825, 
+                    "x": 116, 
+                    "y": 829
+                }, 
+                "tags": [
+                    "edit", 
+                    "edittext", 
+                    "android.widget.edittext", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_51_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_51_android.widget.TextView.png", 
+                    "iter_00000_step_00003_51_android.widget.TextView.png", 
+                    "iter_00000_step_00002_51_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "98xjsexy18PSP0LShXRGdA==\n", 
+                    "height": 50, 
+                    "human_hash": "android.widget.TextView_X116_Y851_W160_H50", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "PASSWORD", 
+                    "width": 160, 
+                    "x": 116, 
+                    "y": 851
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "PASSWORD"
+                ]
+            }, 
+            "iter_00000_step_00004_52_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_52_android.widget.TextView.png", 
+                    "iter_00000_step_00003_52_android.widget.TextView.png", 
+                    "iter_00000_step_00002_52_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "3dfF5JlyCRy6f/Rt/FSStQ==\n", 
+                    "height": 100, 
+                    "human_hash": "android.widget.TextView_X44_Y1057_W992_H100", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "By clicking \"Sign In\", you agree to our Terms and Conditions and consent to our Privacy Policy.", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1057
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "By_clicking_\"Sign_In\",_you_agree_to_our_Terms_and_Conditions_and_consent_to_our_Privacy_Policy."
+                ]
+            }, 
+            "iter_00000_step_00004_53_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00004_53_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "iQwTwdiG5HUE+HSAOhlhoQ==\n", 
+                    "height": 132, 
+                    "human_hash": "android.view.ViewGroup_X265_Y1201_W550_H132", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign In", 
+                    "width": 550, 
+                    "x": 265, 
+                    "y": 1201
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00004_54_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00004_54_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "NjPqLyxetXsuED9iHZRHzQ==\n", 
+                    "height": 44, 
+                    "human_hash": "android.view.ViewGroup_X265_Y1245_W550_H44", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sign In", 
+                    "width": 550, 
+                    "x": 265, 
+                    "y": 1245
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00004_55_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00004_55_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "02tjHL+oQGka4JiZHUd/mg==\n", 
+                    "height": 44, 
+                    "human_hash": "android.widget.TextView_X494_Y1245_W92_H44", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Sign In", 
+                    "width": 92, 
+                    "x": 494, 
+                    "y": 1245
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00004_56_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_56_android.widget.TextView.png", 
+                    "iter_00000_step_00003_56_android.widget.TextView.png", 
+                    "iter_00000_step_00002_56_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "+PSi7iXB6JdaWgN9nVA3RQ==\n", 
+                    "height": 50, 
+                    "human_hash": "android.widget.TextView_X44_Y1388_W992_H50", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Forgot password", 
+                    "width": 992, 
+                    "x": 44, 
+                    "y": 1388
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Forgot_password"
+                ]
+            }, 
+            "iter_00000_step_00004_57_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_57_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_57_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_57_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "XRZ9lrY+EtXasjO/aVR6sA==\n", 
+                    "height": 1842, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y135_W1080_H1842", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 135
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_5_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_0_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_5_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_0_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_5_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "sqQWVF/K7CIQSqUM436zUg==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account Sign in with Variis. testuser1@px.com EMAIL PASSWORD By clicking \"Sign In\", you agree to our Terms and Conditions and consent to our Privacy Policy. Sign In Forgot password", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account_Sign_in_with_Variis._testuser1@px.com_EMAIL_PASSWORD_By_clicking_\"Sign_In\",_you_agree_to_our_Terms_and_Conditions_and_consent_to_our_Privacy_Policy._Sign_In_Forgot_password"
+                ]
+            }, 
+            "iter_00000_step_00004_8_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 9, 
+                "dupes": [
+                    "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+                    "iter_00000_step_00004_7_android.view.ViewGroup.png", 
+                    "iter_00000_step_00004_6_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_8_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_7_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_6_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_8_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_7_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_6_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "pPoCPyUgpTs7neB7lfeXrg==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.ViewGroup_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account Sign in with Variis. testuser1@px.com EMAIL PASSWORD By clicking \"Sign In\", you agree to our Terms and Conditions and consent to our Privacy Policy. Sign In Forgot password", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account_Sign_in_with_Variis._testuser1@px.com_EMAIL_PASSWORD_By_clicking_\"Sign_In\",_you_agree_to_our_Terms_and_Conditions_and_consent_to_our_Privacy_Policy._Sign_In_Forgot_password"
+                ]
+            }, 
+            "iter_00000_step_00004_9_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+                    "iter_00000_step_00004_22_android.view.ViewGroup.png", 
+                    "iter_00000_step_00004_11_android.view.ViewGroup.png", 
+                    "iter_00000_step_00004_10_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_9_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_22_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_11_android.view.ViewGroup.png", 
+                    "iter_00000_step_00003_10_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_9_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_22_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_11_android.view.ViewGroup.png", 
+                    "iter_00000_step_00002_10_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "jXvXLxFH6dOVowi5jxFjPw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.view.ViewGroup_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "The best brands in fitnessnow on demand. Variis is currently only available to select audiencesvisit variis.com to get on the list and be the first to know when we launch in your area! Dev Menu Sign in with Variis Equinox member? Create your Variis account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "The_best_brands_in_fitnessnow_on_demand._Variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_Dev_Menu_Sign_in_with_Variis_Equinox_member?_Create_your_Variis_account"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_20_android.view.View.png", 
+            "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_19_android.view.View.png", 
+            "iter_00000_step_00000_19_android.view.View.png", 
+            "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_21_android.widget.ScrollView.png", 
+            "iter_00000_step_00000_20_android.widget.ScrollView.png", 
+            "iter_00000_step_00001_20_android.widget.ScrollView.png", 
+            "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_38_android.widget.ScrollView.png", 
+            "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_34_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_34_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_57_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_22_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_22_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_23_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_41_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_26_android.widget.TextView.png", 
+            "iter_00000_step_00000_25_android.widget.TextView.png", 
+            "iter_00000_step_00001_25_android.widget.TextView.png", 
+            "iter_00000_step_00001_24_android.widget.TextView.png", 
+            "iter_00000_step_00000_24_android.widget.TextView.png", 
+            "iter_00000_step_00004_25_android.widget.TextView.png", 
+            "iter_00000_step_00004_46_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_49_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_29_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_26_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_30_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_27_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_26_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_47_android.widget.EditText.png", 
+            "iter_00000_step_00004_50_android.widget.EditText.png", 
+            "iter_00000_step_00004_45_android.widget.TextView.png", 
+            "iter_00000_step_00004_52_android.widget.TextView.png", 
+            "iter_00000_step_00003_53_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_53_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_30_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_27_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_31_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_27_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_28_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_56_android.widget.TextView.png", 
+            "iter_00000_step_00003_54_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_54_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_32_android.widget.TextView.png", 
+            "iter_00000_step_00001_31_android.widget.TextView.png", 
+            "iter_00000_step_00004_33_android.widget.TextView.png", 
+            "iter_00000_step_00001_32_android.widget.TextView.png", 
+            "iter_00000_step_00000_32_android.widget.TextView.png", 
+            "iter_00000_step_00001_33_android.widget.TextView.png", 
+            "iter_00000_step_00000_33_android.widget.TextView.png", 
+            "iter_00000_step_00004_34_android.widget.TextView.png", 
+            "iter_00000_step_00004_29_android.widget.TextView.png", 
+            "iter_00000_step_00001_28_android.widget.TextView.png", 
+            "iter_00000_step_00004_42_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_51_android.widget.TextView.png", 
+            "iter_00000_step_00004_48_android.widget.TextView.png", 
+            "iter_00000_step_00004_44_android.view.ViewGroup.png", 
+            "iter_00000_step_00004_24_android.view.ViewGroup.png", 
+            "iter_00000_step_00001_23_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_23_android.view.ViewGroup.png", 
+            "iter_00000_step_00003_55_android.widget.TextView.png", 
+            "iter_00000_step_00004_55_android.widget.TextView.png", 
+            "iter_00000_step_00004_43_android.view.ViewGroup.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_14_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_13_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_11_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_18_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_17_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_16_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_15_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_12_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_19_android.view.View.png": [
+                "iter_00000_step_00000_19_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_20_android.widget.ScrollView.png": [
+                "iter_00000_step_00000_20_android.widget.ScrollView.png"
+            ], 
+            "iter_00000_step_00000_22_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_22_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_23_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_23_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_24_android.widget.TextView.png": [
+                "iter_00000_step_00000_24_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_25_android.widget.TextView.png": [
+                "iter_00000_step_00000_25_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_26_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_26_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_27_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_27_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_32_android.widget.TextView.png": [
+                "iter_00000_step_00000_32_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_33_android.widget.TextView.png": [
+                "iter_00000_step_00000_33_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_34_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_34_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_5_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_9_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_7_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_6_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_21_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_10_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00001_14_android.view.ViewGroup.png": [
+                "iter_00000_step_00001_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_13_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_11_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00001_18_android.widget.FrameLayout.png": [
+                "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_17_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_16_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_15_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_12_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00001_19_android.view.View.png": [
+                "iter_00000_step_00001_19_android.view.View.png"
+            ], 
+            "iter_00000_step_00001_20_android.widget.ScrollView.png": [
+                "iter_00000_step_00001_20_android.widget.ScrollView.png"
+            ], 
+            "iter_00000_step_00001_22_android.view.ViewGroup.png": [
+                "iter_00000_step_00001_22_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00001_23_android.view.ViewGroup.png": [
+                "iter_00000_step_00001_23_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00001_24_android.widget.TextView.png": [
+                "iter_00000_step_00001_24_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_25_android.widget.TextView.png": [
+                "iter_00000_step_00001_25_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_26_android.view.ViewGroup.png": [
+                "iter_00000_step_00001_26_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00001_27_android.view.ViewGroup.png": [
+                "iter_00000_step_00001_27_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00001_28_android.widget.TextView.png": [
+                "iter_00000_step_00001_28_android.widget.TextView.png", 
+                "iter_00000_step_00000_28_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_29_android.view.ViewGroup.png": [
+                "iter_00000_step_00001_29_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_29_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00001_30_android.view.ViewGroup.png": [
+                "iter_00000_step_00001_30_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_30_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00001_31_android.widget.TextView.png": [
+                "iter_00000_step_00001_31_android.widget.TextView.png", 
+                "iter_00000_step_00000_31_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_32_android.widget.TextView.png": [
+                "iter_00000_step_00001_32_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_33_android.widget.TextView.png": [
+                "iter_00000_step_00001_33_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_34_android.widget.FrameLayout.png": [
+                "iter_00000_step_00001_34_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00001_3_android.widget.LinearLayout.png": [
+                "iter_00000_step_00001_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00001_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00001_5_android.widget.FrameLayout.png": [
+                "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00001_9_android.view.ViewGroup.png": [
+                "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_7_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_6_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_21_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_10_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00003_53_android.view.ViewGroup.png": [
+                "iter_00000_step_00003_53_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_53_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00003_54_android.view.ViewGroup.png": [
+                "iter_00000_step_00003_54_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_54_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00003_55_android.widget.TextView.png": [
+                "iter_00000_step_00003_55_android.widget.TextView.png", 
+                "iter_00000_step_00002_55_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_15_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_12_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_15_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_12_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_15_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_12_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_19_android.widget.FrameLayout.png": [
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_17_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_16_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_13_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_17_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_16_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_13_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_17_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_16_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_13_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00004_20_android.view.View.png": [
+                "iter_00000_step_00004_20_android.view.View.png", 
+                "iter_00000_step_00003_20_android.view.View.png", 
+                "iter_00000_step_00002_20_android.view.View.png"
+            ], 
+            "iter_00000_step_00004_21_android.widget.ScrollView.png": [
+                "iter_00000_step_00004_21_android.widget.ScrollView.png", 
+                "iter_00000_step_00003_21_android.widget.ScrollView.png", 
+                "iter_00000_step_00002_21_android.widget.ScrollView.png"
+            ], 
+            "iter_00000_step_00004_23_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_23_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_23_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_23_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_24_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_24_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_24_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_24_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_25_android.widget.TextView.png": [
+                "iter_00000_step_00004_25_android.widget.TextView.png", 
+                "iter_00000_step_00003_25_android.widget.TextView.png", 
+                "iter_00000_step_00002_25_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_26_android.widget.TextView.png": [
+                "iter_00000_step_00004_26_android.widget.TextView.png", 
+                "iter_00000_step_00003_26_android.widget.TextView.png", 
+                "iter_00000_step_00002_26_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_27_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_27_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_27_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_27_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_28_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_28_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_28_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_28_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_29_android.widget.TextView.png": [
+                "iter_00000_step_00004_29_android.widget.TextView.png", 
+                "iter_00000_step_00003_29_android.widget.TextView.png", 
+                "iter_00000_step_00002_29_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_30_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_30_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_30_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_30_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_31_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_31_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_31_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_31_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_32_android.widget.TextView.png": [
+                "iter_00000_step_00004_32_android.widget.TextView.png", 
+                "iter_00000_step_00003_32_android.widget.TextView.png", 
+                "iter_00000_step_00002_32_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_33_android.widget.TextView.png": [
+                "iter_00000_step_00004_33_android.widget.TextView.png", 
+                "iter_00000_step_00003_33_android.widget.TextView.png", 
+                "iter_00000_step_00002_33_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_34_android.widget.TextView.png": [
+                "iter_00000_step_00004_34_android.widget.TextView.png", 
+                "iter_00000_step_00003_34_android.widget.TextView.png", 
+                "iter_00000_step_00002_34_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_37_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_36_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_35_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_37_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_36_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_35_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_37_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_36_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_35_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_38_android.widget.ScrollView.png": [
+                "iter_00000_step_00004_38_android.widget.ScrollView.png", 
+                "iter_00000_step_00003_38_android.widget.ScrollView.png", 
+                "iter_00000_step_00002_38_android.widget.ScrollView.png"
+            ], 
+            "iter_00000_step_00004_3_android.widget.LinearLayout.png": [
+                "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00004_1_android.widget.LinearLayout.png", 
+                "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00003_1_android.widget.LinearLayout.png", 
+                "iter_00000_step_00002_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00002_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00004_40_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_39_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_40_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_39_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_40_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_39_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_41_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_41_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_41_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_41_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_42_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_42_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_42_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_42_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_43_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_43_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_43_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_43_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_44_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_44_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_44_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_44_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_45_android.widget.TextView.png": [
+                "iter_00000_step_00004_45_android.widget.TextView.png", 
+                "iter_00000_step_00003_45_android.widget.TextView.png", 
+                "iter_00000_step_00002_45_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_46_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_46_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_46_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_46_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_47_android.widget.EditText.png": [
+                "iter_00000_step_00004_47_android.widget.EditText.png", 
+                "iter_00000_step_00003_47_android.widget.EditText.png", 
+                "iter_00000_step_00002_47_android.widget.EditText.png"
+            ], 
+            "iter_00000_step_00004_48_android.widget.TextView.png": [
+                "iter_00000_step_00004_48_android.widget.TextView.png", 
+                "iter_00000_step_00003_48_android.widget.TextView.png", 
+                "iter_00000_step_00002_48_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_49_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_49_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_49_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_49_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_50_android.widget.EditText.png": [
+                "iter_00000_step_00004_50_android.widget.EditText.png", 
+                "iter_00000_step_00003_50_android.widget.EditText.png", 
+                "iter_00000_step_00002_50_android.widget.EditText.png"
+            ], 
+            "iter_00000_step_00004_51_android.widget.TextView.png": [
+                "iter_00000_step_00004_51_android.widget.TextView.png", 
+                "iter_00000_step_00003_51_android.widget.TextView.png", 
+                "iter_00000_step_00002_51_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_52_android.widget.TextView.png": [
+                "iter_00000_step_00004_52_android.widget.TextView.png", 
+                "iter_00000_step_00003_52_android.widget.TextView.png", 
+                "iter_00000_step_00002_52_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_53_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_53_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_54_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_54_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_55_android.widget.TextView.png": [
+                "iter_00000_step_00004_55_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_56_android.widget.TextView.png": [
+                "iter_00000_step_00004_56_android.widget.TextView.png", 
+                "iter_00000_step_00003_56_android.widget.TextView.png", 
+                "iter_00000_step_00002_56_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_57_android.widget.FrameLayout.png": [
+                "iter_00000_step_00004_57_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_57_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_57_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00004_5_android.widget.FrameLayout.png": [
+                "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_0_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_0_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00004_8_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_7_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_6_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_7_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_6_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_7_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_6_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00004_9_android.view.ViewGroup.png": [
+                "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_22_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_11_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_10_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_22_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_11_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_10_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_22_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_11_android.view.ViewGroup.png", 
+                "iter_00000_step_00002_10_android.view.ViewGroup.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png": "iter_00000_step_00001_screenshot.png", 
+            "iter_00000_step_00002_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00003_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00004_screenshot.png": "iter_00000_step_00004_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_19_android.view.View.png", 
+                "iter_00000_step_00000_20_android.widget.ScrollView.png", 
+                "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_22_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_23_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_24_android.widget.TextView.png", 
+                "iter_00000_step_00000_25_android.widget.TextView.png", 
+                "iter_00000_step_00000_26_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_27_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_28_android.widget.TextView.png", 
+                "iter_00000_step_00001_29_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_30_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_31_android.widget.TextView.png", 
+                "iter_00000_step_00000_32_android.widget.TextView.png", 
+                "iter_00000_step_00000_33_android.widget.TextView.png", 
+                "iter_00000_step_00000_34_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00001_screenshot.png": [
+                "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_18_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_19_android.view.View.png", 
+                "iter_00000_step_00001_20_android.widget.ScrollView.png", 
+                "iter_00000_step_00001_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_22_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_23_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_24_android.widget.TextView.png", 
+                "iter_00000_step_00001_25_android.widget.TextView.png", 
+                "iter_00000_step_00001_26_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_27_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_28_android.widget.TextView.png", 
+                "iter_00000_step_00001_29_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_30_android.view.ViewGroup.png", 
+                "iter_00000_step_00001_31_android.widget.TextView.png", 
+                "iter_00000_step_00001_32_android.widget.TextView.png", 
+                "iter_00000_step_00001_33_android.widget.TextView.png", 
+                "iter_00000_step_00001_34_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_20_android.view.View.png", 
+                "iter_00000_step_00004_21_android.widget.ScrollView.png", 
+                "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_23_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_24_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_25_android.widget.TextView.png", 
+                "iter_00000_step_00004_26_android.widget.TextView.png", 
+                "iter_00000_step_00004_27_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_28_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_29_android.widget.TextView.png", 
+                "iter_00000_step_00004_30_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_31_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_32_android.widget.TextView.png", 
+                "iter_00000_step_00004_33_android.widget.TextView.png", 
+                "iter_00000_step_00004_34_android.widget.TextView.png", 
+                "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_38_android.widget.ScrollView.png", 
+                "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_41_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_42_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_43_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_44_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_45_android.widget.TextView.png", 
+                "iter_00000_step_00004_46_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_47_android.widget.EditText.png", 
+                "iter_00000_step_00004_48_android.widget.TextView.png", 
+                "iter_00000_step_00004_49_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_50_android.widget.EditText.png", 
+                "iter_00000_step_00004_51_android.widget.TextView.png", 
+                "iter_00000_step_00004_52_android.widget.TextView.png", 
+                "iter_00000_step_00003_53_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_54_android.view.ViewGroup.png", 
+                "iter_00000_step_00003_55_android.widget.TextView.png", 
+                "iter_00000_step_00004_56_android.widget.TextView.png", 
+                "iter_00000_step_00004_57_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00004_screenshot.png": [
+                "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_8_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_15_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_19_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_20_android.view.View.png", 
+                "iter_00000_step_00004_21_android.widget.ScrollView.png", 
+                "iter_00000_step_00004_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_23_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_24_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_25_android.widget.TextView.png", 
+                "iter_00000_step_00004_26_android.widget.TextView.png", 
+                "iter_00000_step_00004_27_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_28_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_29_android.widget.TextView.png", 
+                "iter_00000_step_00004_30_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_31_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_32_android.widget.TextView.png", 
+                "iter_00000_step_00004_33_android.widget.TextView.png", 
+                "iter_00000_step_00004_34_android.widget.TextView.png", 
+                "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_37_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_38_android.widget.ScrollView.png", 
+                "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_40_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_41_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_42_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_43_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_44_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_45_android.widget.TextView.png", 
+                "iter_00000_step_00004_46_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_47_android.widget.EditText.png", 
+                "iter_00000_step_00004_48_android.widget.TextView.png", 
+                "iter_00000_step_00004_49_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_50_android.widget.EditText.png", 
+                "iter_00000_step_00004_51_android.widget.TextView.png", 
+                "iter_00000_step_00004_52_android.widget.TextView.png", 
+                "iter_00000_step_00004_53_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_54_android.view.ViewGroup.png", 
+                "iter_00000_step_00004_55_android.widget.TextView.png", 
+                "iter_00000_step_00004_56_android.widget.TextView.png", 
+                "iter_00000_step_00004_57_android.widget.FrameLayout.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.framelayout", 
+                    "android.widget.scrollview", 
+                    "android.view.viewgroup", 
+                    "scrollview", 
+                    "framelayout", 
+                    "all_screens", 
+                    "android.widget.textview", 
+                    "android.view.view", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!", 
+                    "the_best_brands_in_fitnessnow_on_demand.", 
+                    "sign_in_with_variis", 
+                    "the_best_brands_in_fitnessnow_on_demand._variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!", 
+                    "dev_menu", 
+                    "equinox_member?", 
+                    "the_best_brands_in_fitnessnow_on_demand._variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_dev_menu_sign_in_with_variis_equinox_member?_create_your_variis_account", 
+                    "create_your_variis_account"
+                ]
+            }, 
+            "iter_00000_step_00001_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00001_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.framelayout", 
+                    "android.widget.scrollview", 
+                    "android.view.viewgroup", 
+                    "scrollview", 
+                    "framelayout", 
+                    "all_screens", 
+                    "android.widget.textview", 
+                    "android.view.view", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!", 
+                    "the_best_brands_in_fitnessnow_on_demand.", 
+                    "sign_in_with_variis", 
+                    "the_best_brands_in_fitnessnow_on_demand._variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!", 
+                    "dev_menu", 
+                    "equinox_member?", 
+                    "the_best_brands_in_fitnessnow_on_demand._variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_dev_menu_sign_in_with_variis_equinox_member?_create_your_variis_account", 
+                    "create_your_variis_account"
+                ]
+            }, 
+            "iter_00000_step_00003_screenshot.png": {
+                "dupe_count": [
+                    2
+                ], 
+                "dupes": [
+                    "iter_00000_step_00003_screenshot.png", 
+                    "iter_00000_step_00002_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.framelayout", 
+                    "edittext", 
+                    "android.widget.scrollview", 
+                    "android.view.viewgroup", 
+                    "scrollview", 
+                    "framelayout", 
+                    "all_screens", 
+                    "android.widget.textview", 
+                    "android.view.view", 
+                    "android.widget.edittext", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!", 
+                    "the_best_brands_in_fitnessnow_on_demand.", 
+                    "by_clicking_\"sign_in\",_you_agree_to_our_terms_and_conditions_and_consent_to_our_privacy_policy.", 
+                    "forgot_password", 
+                    "sign_in_with_variis._testuser1@px.com_email_password_by_clicking_\"sign_in\",_you_agree_to_our_terms_and_conditions_and_consent_to_our_privacy_policy._sign_in_forgot_password", 
+                    "sign_in_with_variis", 
+                    "the_best_brands_in_fitnessnow_on_demand._variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!", 
+                    "dev_menu", 
+                    "testuser1@px.com", 
+                    "testuser1@px.com_email", 
+                    "sign_in_with_variis.", 
+                    "sign_in", 
+                    "the_best_brands_in_fitnessnow_on_demand._variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_dev_menu_sign_in_with_variis_equinox_member?_create_your_variis_account_sign_in_with_variis._testuser1@px.com_email_password_by_clicking_\"sign_in\",_you_agree_to_our_terms_and_conditions_and_consent_to_our_privacy_policy._sign_in_forgot_password", 
+                    "password", 
+                    "equinox_member?", 
+                    "email", 
+                    "the_best_brands_in_fitnessnow_on_demand._variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_dev_menu_sign_in_with_variis_equinox_member?_create_your_variis_account", 
+                    "create_your_variis_account"
+                ]
+            }, 
+            "iter_00000_step_00004_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00004_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.framelayout", 
+                    "edittext", 
+                    "android.widget.scrollview", 
+                    "android.view.viewgroup", 
+                    "scrollview", 
+                    "framelayout", 
+                    "all_screens", 
+                    "android.widget.textview", 
+                    "android.view.view", 
+                    "android.widget.edittext", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!", 
+                    "the_best_brands_in_fitnessnow_on_demand.", 
+                    "by_clicking_\"sign_in\",_you_agree_to_our_terms_and_conditions_and_consent_to_our_privacy_policy.", 
+                    "forgot_password", 
+                    "sign_in_with_variis._testuser1@px.com_email_password_by_clicking_\"sign_in\",_you_agree_to_our_terms_and_conditions_and_consent_to_our_privacy_policy._sign_in_forgot_password", 
+                    "sign_in_with_variis", 
+                    "the_best_brands_in_fitnessnow_on_demand._variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!", 
+                    "dev_menu", 
+                    "testuser1@px.com", 
+                    "testuser1@px.com_email", 
+                    "sign_in_with_variis.", 
+                    "sign_in", 
+                    "the_best_brands_in_fitnessnow_on_demand._variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_dev_menu_sign_in_with_variis_equinox_member?_create_your_variis_account_sign_in_with_variis._testuser1@px.com_email_password_by_clicking_\"sign_in\",_you_agree_to_our_terms_and_conditions_and_consent_to_our_privacy_policy._sign_in_forgot_password", 
+                    "password", 
+                    "equinox_member?", 
+                    "email", 
+                    "the_best_brands_in_fitnessnow_on_demand._variis_is_currently_only_available_to_select_audiencesvisit_variis.com_to_get_on_the_list_and_be_the_first_to_know_when_we_launch_in_your_area!_dev_menu_sign_in_with_variis_equinox_member?_create_your_variis_account", 
+                    "create_your_variis_account"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00004_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png", 
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ], 
+            "iter_00000_step_00001_screenshot.png": [
+                "iter_00000_step_00001_screenshot.png"
+            ], 
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00003_screenshot.png", 
+                "iter_00000_step_00002_screenshot.png"
+            ], 
+            "iter_00000_step_00004_screenshot.png": [
+                "iter_00000_step_00004_screenshot.png"
+            ]
+        }
+    }
+}

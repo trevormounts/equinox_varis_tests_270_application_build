@@ -1,0 +1,56 @@
+{
+    "elems": {
+        "iter_00000_step_00002_32_android.widget.TextView.png": [
+            "btn_sign_in"
+        ], 
+        "iter_00000_step_00004_55_android.widget.TextView.png": [
+            "btn_sign_in"
+        ], 
+        "iter_00000_step_00013_107_android.widget.TextView.png": [
+            "txt_height"
+        ], 
+        "iter_00000_step_00013_78_android.widget.Button.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00013_95_android.widget.TextView.png": [
+            "txt_birthday"
+        ], 
+        "iter_00000_step_00018_65_android.view.View.png": [
+            "txt_try_new_workout_types"
+        ], 
+        "iter_00000_step_00018_89_android.view.ViewGroup.png": [
+            "img_stretches_for_cycling"
+        ], 
+        "iter_00000_step_00024_168_android.widget.TextView.png": [
+            "txt_completed_class_11_30_20"
+        ], 
+        "iter_00000_step_00024_210_android.view.ViewGroup.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00024_212_android.view.ViewGroup.png": [
+            "btn_add_to_calendar"
+        ], 
+        "iter_00000_step_00024_217_android.view.ViewGroup.png": [
+            "btn_add_to_saved"
+        ], 
+        "iter_00000_step_00025_89_android.view.View.png": [
+            "txt_stretches_for_cycling"
+        ], 
+        "iter_00000_step_00028_77_android.widget.ImageView.png": [
+            "img_instructors_yemie_sonuga"
+        ], 
+        "iter_00000_step_00030_45_android.widget.Button.png": [
+            "btn_view_all"
+        ], 
+        "iter_00000_step_00034_22_android.widget.Button.png": [
+            "icn_user_profile"
+        ], 
+        "iter_00000_step_00034_62_android.view.ViewGroup.png": [
+            "icn_explore"
+        ], 
+        "iter_00000_step_00034_65_android.view.ViewGroup.png": [
+            "icn_schedule"
+        ]
+    }, 
+    "screens": {}
+}

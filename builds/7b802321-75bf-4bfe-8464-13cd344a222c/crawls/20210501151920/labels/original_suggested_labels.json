@@ -1,0 +1,41 @@
+{
+    "elems": {
+        "iter_00000_step_00001_31_android.widget.TextView.png": {
+            "btn_sign_in": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00005_22_android.widget.Button.png": {
+            "icn_user_profile": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00005_67_android.view.ViewGroup.png": {
+            "icn_explore": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00005_70_android.view.ViewGroup.png": {
+            "icn_schedule": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }
+    }, 
+    "screens": {}
+}

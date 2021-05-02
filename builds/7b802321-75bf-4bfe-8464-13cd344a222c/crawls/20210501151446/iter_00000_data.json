@@ -1,0 +1,14 @@
+{
+    "desiredCaps": {
+        "app": "http://localhost:5000/api/v2/apps/8e3f7530-76ee-45b7-9ff2-cf4a8c01c1c1/builds/7b802321-75bf-4bfe-8464-13cd344a222c/download?ext=.apk", 
+        "appPackage": "com.equinox.android", 
+        "autoAcceptAlerts": true, 
+        "deviceName": "Android Emulator", 
+        "newCommandTimeout": 100, 
+        "platformName": "Android", 
+        "platformVersion": "7.0"
+    }, 
+    "deviceFriendlyName": "Nexus 5", 
+    "hostPlatformRelease": "19.6.0", 
+    "hostPlatformSystem": "Darwin"
+}
